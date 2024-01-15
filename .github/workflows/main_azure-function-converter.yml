@@ -6,7 +6,7 @@ name: Build and deploy ASP.Net Core app to Azure Web App - azure-function-conver
 on:
   push:
     branches:
-      - main/azure-function-converter
+      - azure-function-converter
   workflow_dispatch:
 
 jobs:
