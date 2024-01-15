@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "azure_function_converter": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7154",
+      "launchBrowser": false
+    }
+  }
+}
